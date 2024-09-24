@@ -1,7 +1,7 @@
 
-  <h2 align="center">Tourest - Travel website</h2>
+  <h2 align="center">TourPlanner - Travel website</h2>
 
-  Tourest is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  TourPlanner is fully responsive travel website, <br />
 
   <a href="https://codewithsadee.github.io/tourest/"><strong>➥ Live Demo</strong></a>
 
@@ -9,9 +9,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Tourest Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -34,11 +31,3 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/tourest.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
