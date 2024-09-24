@@ -1,0 +1,199 @@
+TourPlanner - Explore the World
+
+
+
+#.......... HEADER ..........#
+
+TourPlanner
+
+aria-label = Toggle Menu
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About Us
+Tours
+Destinations
+Blog
+Contact Us
+
+Booking Now
+
+
+
+#.......... HERO ..........#
+
+alt = Vector Shape
+
+Explore The World
+
+Trusted Travel Agency
+
+We’re passionate outdoor enthusiasts dedicated to helping you prepare for your next adventure.
+
+Contact Us
+Learn More
+
+alt = hero banner
+
+
+
+#.......... DESTINATION ..........#
+
+Destinations
+
+Choose Your Place
+
+alt = Malé, Maldives
+Malé
+Maldives
+
+alt = Bangkok, Thailand
+Bangkok
+Thailand
+
+alt = Kuala Lumpur, Malaysia
+Kuala Lumpur
+Malaysia
+
+alt = Kathmandu, Nepal
+Kathmandu
+Nepal
+
+alt = Jakarta, Indonesia 
+Jakarta
+Indonesia
+
+
+
+#.......... POPULAR ..........#
+
+Featured Tours
+
+Most Popular Tours
+
+alt = Kuala Lumpur, Malaysia
+
+<ion-icon name="time-outline"></ion-icon>
+12 Days
+
+From $50.00
+
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star-outline"></ion-icon>
+(2)
+
+A good traveler has no fixed plans and is not intent on arriving.
+Kuala Lumpur, Malaysia
+
+
+
+#.......... ABOUT ..........#
+
+About Us
+
+Explore all tour of the world with us.
+
+Welcome to the TourPlanner! With expert advice and product recommendations, we make it easy to plan your journey into the wild.
+
+
+<ion-icon name="compass"></ion-icon>
+
+Tour guide
+
+We provide detailed recommendations for essential quipmets and products needed for travel.
+
+<ion-icon name="briefcase"></ion-icon>
+Friendly price
+
+Our recommendaded products are very useful and cost effective.
+
+<ion-icon name="umbrella"></ion-icon>
+Reliable tour
+
+We prioritize safety, offering advice on durable and dependable products to ensure a 
+secure outdoor journey.
+
+Booking Now
+
+alt = About banner
+
+
+
+#.......... BLOG ..........#
+
+From The Blog Post
+
+Latest News & Articles
+
+alt = Whether you’re a beginner or an experienced adventurer, we customize our recommendations 
+to suit your specific needs.
+
+<ion-icon name="time-outline"></ion-icon>
+04 Dec
+
+alt = Prem Singh
+
+Prem Singh
+Admin
+
+10:30 AM
+
+Adventure Awaits! Escape the ordinary and discover the extraordinary with us!
+
+Read More 
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+#.......... FOOTER ..........#
+
+Top destination
+
+Indonesia, Jakarta
+Maldives, Malé
+Australia, Canberra
+Thailand, Bangkok
+Morocco, Rabat
+
+Categories
+
+Travel
+Lifestyle
+Fashion
+Education
+Food & Drink
+
+Quick links
+
+About
+Contact
+Tours
+Booking
+Terms & Conditions
+
+Get a newsletter
+
+Don’t miss out on your next epic journey!"
+
+placeholder = Email address
+
+Subscribe
+
+TourPlanner
+
+&copy; 2022 codewithsadee. All Rights Reserved
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-google"></ion-icon>
+
+
+
+#.......... GO TO TOP ..........#
+
+aria-label = Go To Top
+
+<ion-icon name="chevron-up-outline"></ion-icon>
